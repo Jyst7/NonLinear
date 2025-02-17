@@ -41,3 +41,7 @@ im just thinking that to make it precise i would need to have an almost 0 backla
 the simple part will be the larger body of the printer so lets keep it to a smaller design that for eyballing has a volume of maybe 10-15 cm for the length height and depth but that might be generous
 
 i want the rotation to be on its own as it should be the most stable part as it has the most moving parts i think
+
+new source: https://www.artificialintelligence.wiki/3d-printing/imperial-college-london-microsoft-propose-a-cheap-and-accessible-method-for-upgrading-3d-printers-to-5-axes/
+
+so im thinking stepper motor for the precision and then a cycloidal gearbox right on top and then with a belt that should be precise enough otherwise ballscrewing around might be neccesary but hopefully not and i can leave that for the toolhead i guess im gonna find examples of that now
