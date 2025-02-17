@@ -1,4 +1,4 @@
-Made by: @dari // alexren
+Made by: @JystBird
 Repository link: https://github.com/Jyst7/NonLinear/tree/main
 Total hours so far: 2
 
