@@ -58,3 +58,7 @@ for the main body it would be a exoskeleton thats just like a box with only edge
 exoskeleton would prob have 4 threaded rods with a rounded linear rail to accompany each one for the stable y axis using ballscrews i think for the most precision
 then there would be a motion system on top of this to get the x and z axis like the p1s would just be a bunch of belt and a couple linear rails for stability
 then the base would have an elevated platform prob a circle at two opposite ends of the circle a gear/ linear motor will be connected for the pitch and then under this buildplate or something will be another linear motor for the yaw this should allow for control over the roll with some fancy kinimatics that I will never understand but im just asking for my hopes and dreams to be crushed
+
+ok so ive seen things like a core xyz but that mechanism seems too complicated and i feel wouldn't be super precise i am going to read more on it so core xyz looks complicated and im not smart enough for that so as i was thinking before it would more be like a CoreXY + Gantry Z-Axis
+
+currently i am making some base design drawings for the main body not the wierd base thingy
