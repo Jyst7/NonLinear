@@ -52,3 +52,9 @@ i think that my preliminary idea is to use either 2 powerful linear motors or 2 
 
 I think ill make the most basic outline for the rotational part and then fully design the main body and then finish up the base
 I am also realizing i have no clue about how physics works but whatever
+
+for the main body it would be a exoskeleton thats just like a box with only edges and vertecies and then the rest is like filled with plastic or acrylic if possible, something like the cheaper bambu p1s also build plate would be g10 its the only one i could think of that is cheap and could be cut with not too much difficulty
+
+exoskeleton would prob have 4 threaded rods with a rounded linear rail to accompany each one for the stable y axis using ballscrews i think for the most precision
+then there would be a motion system on top of this to get the x and z axis like the p1s would just be a bunch of belt and a couple linear rails for stability
+then the base would have an elevated platform prob a circle at two opposite ends of the circle a gear/ linear motor will be connected for the pitch and then under this buildplate or something will be another linear motor for the yaw this should allow for control over the roll with some fancy kinimatics that I will never understand but im just asking for my hopes and dreams to be crushed
