@@ -4,31 +4,40 @@ Total hours so far: 2
 
 - [x] I have a Bambu P1S
 
-## Project Overview
-- Building a non-linear 3D printer project
-- Using Bambu P1S as the base hardware
-- Goal: Explore innovative printing techniques
+** Goals
 
-## Current Setup
-### Hardware
-- Bambu P1S 3D Printer
-- Stock configuration
-- Build volume: 256 x 256 x 256mm
-- Direct drive extruder
+1. Has a toolhead that moves on the x,y,z
+2. Has a rotating base
+3. stable and precise
 
-### Software
-- Bambu Studio for slicing
-- Default firmware
+Feb 17 2025:
 
-## Project Goals
-1. Understand current printer capabilities
-2. Research non-linear printing methods
-3. Document modifications and improvements
-4. Share findings with the community
+- came up with name
+- started research and brainstorm
+- started drawing ideas
+- resources found
+    - https://www.youtube.com/watch?v=o8VBw_Q0OWE&t=2s
+    - https://www.youtube.com/watch?v=GocP5EajSRM&t=788s
 
-## Next Steps
-- [ ] Study printer firmware
-- [ ] Research non-linear printing algorithms
-- [ ] Set up development environment
-- [ ] Create initial test prints
+idea
+- have the toolhead move on the x y and z but nozzle stays on the same plane and angle the whole time
+- the base is able to rotate so that the head can reach any part of it
 
+limitations
+- printer turns off motors dont stay in position printer falls and destroys itself
+- slicer
+
+how to do
+- find constraints
+    - $300
+    - may 21st
+    - how much can i get 3d printed while still being precise
+    - sizing(the larger the build volume the longer the nozzle has to be)
+
+my thinking to still get a largeish build volume is that i would always have the small build plate and just a crap ton of supports which i dont like but the parts i would be printing on this wont be that big to begin thats what the p1s is for
+
+im just thinking that to make it precise i would need to have an almost 0 backlash system and so how would i do that, the methods i know for that are cycloidal drive, ballscrews and thats about it
+
+the simple part will be the larger body of the printer so lets keep it to a smaller design that for eyballing has a volume of maybe 10-15 cm for the length height and depth but that might be generous
+
+i want the rotation to be on its own as it should be the most stable part as it has the most moving parts i think
