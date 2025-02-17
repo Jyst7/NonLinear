@@ -45,3 +45,7 @@ i want the rotation to be on its own as it should be the most stable part as it 
 new source: https://www.artificialintelligence.wiki/3d-printing/imperial-college-london-microsoft-propose-a-cheap-and-accessible-method-for-upgrading-3d-printers-to-5-axes/
 
 so im thinking stepper motor for the precision and then a cycloidal gearbox right on top and then with a belt that should be precise enough otherwise ballscrewing around might be neccesary but hopefully not and i can leave that for the toolhead i guess im gonna find examples of that now
+
+through very minimal research linear motor and cycloidal drive would be useful for the extra torque might do some more research but i wonder if it would be more worth it to just buy a more powerful linear motor as the cycloidal gearbox would need a bunch of little bearings etc
+
+i think that my preliminary idea is to use either 2 powerful linear motors or 2 linear motors with cycloidal gearboxes. for the i guess pitch and then 1 or 2 just linear motors for the yaw
