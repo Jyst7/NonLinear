@@ -62,3 +62,18 @@ then the base would have an elevated platform prob a circle at two opposite ends
 ok so ive seen things like a core xyz but that mechanism seems too complicated and i feel wouldn't be super precise i am going to read more on it so core xyz looks complicated and im not smart enough for that so as i was thinking before it would more be like a CoreXY + Gantry Z-Axis
 
 currently i am making some base design drawings for the main body not the wierd base thingy
+this seems very expensive so the build volume would prob be at most 10x10x10
+most the price would prob go to the linear motors and lead screws or something mcmaster-carr to the rescue
+
+ok so if i have $300 and i have 3 motors for base, and 2 for core xy, and 4 for z axis thats 9 motors lets say $30 each thats 9*30 so 270 uhhh ok we gotta find cheaper motors or less prob both ok so i think that website was overpriced on amazon and robot shop they are more so $20 so thats $180 that leaves some money for belts lead screws and linear rails and the rest will be bearings and hopefully just 3d print the rest
+
+
+bom
+limit $300
+- 3 motors for z
+- 2 motors for xy
+- 2 motors for pitch
+- 1 motor for yaw
+- 8 motors $20 each
+= $160
+
