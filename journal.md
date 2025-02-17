@@ -49,3 +49,6 @@ so im thinking stepper motor for the precision and then a cycloidal gearbox righ
 through very minimal research linear motor and cycloidal drive would be useful for the extra torque might do some more research but i wonder if it would be more worth it to just buy a more powerful linear motor as the cycloidal gearbox would need a bunch of little bearings etc
 
 i think that my preliminary idea is to use either 2 powerful linear motors or 2 linear motors with cycloidal gearboxes. for the i guess pitch and then 1 or 2 just linear motors for the yaw
+
+I think ill make the most basic outline for the rotational part and then fully design the main body and then finish up the base
+I am also realizing i have no clue about how physics works but whatever
