@@ -69,7 +69,8 @@ ok so if i have $300 and i have 3 motors for base, and 2 for core xy, and 4 for 
 
 
 bom
-limit $300
+total limit $500
+grant limit $300
 - 4 motors for z
 - 2 motors for xy
 - 2 motors for pitch
