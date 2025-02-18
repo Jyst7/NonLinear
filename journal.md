@@ -77,7 +77,7 @@ grant limit $300
 - 2 motors for xy
 - 2 motors for pitch
 - 1 motor for yaw
-- 9 motors $6(welcom bonus) each
+- 9 motors $6(welcome bonus) each
 = $54
 
 vslot is $2 with welcom deal
