@@ -1,6 +1,6 @@
 Made by: @JystBird
 Repository link: https://github.com/Jyst7/NonLinear/tree/main
-Total hours so far: 2
+Total hours so far: 7
 
 - [x] I have a Bambu P1S
 
@@ -11,6 +11,8 @@ Total hours so far: 2
 3. stable and precise
 
 Feb 17 2025:
+
+7 hours
 
 - came up with name
 - started research and brainstorm
