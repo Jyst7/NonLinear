@@ -77,9 +77,17 @@ grant limit $300
 - 2 motors for xy
 - 2 motors for pitch
 - 1 motor for yaw
-- 9 motors $6(welcome bonus) each
+- 9 motors $6(welcome bonus) each(completely wrong must find good one for like $15 later)
 = $54
 
 vslot is $2 with welcom deal
 least 4x, most 12x $8-$24
 v slot :https://www.aliexpress.com/item/1005003367614421.html?algo_pvid=ede12625-4f86-4bb8-93ea-521c2b577cc0&algo_exp_id=ede12625-4f86-4bb8-93ea-521c2b577cc0-5&pdp_ext_f=%7B%22order%22:%2237%22,%22eval%22:%221%22%7D&pdp_npi=4@dis!CAD!17.88!2.03!!!12.34!1.40!@2101c59817398320206561562e66c5!12000025449760566!sea!CA!0!ABX&curPageLogUid=tLjlhsCfaOR6&utparam-url=scene:search%7Cquery_from:
+
+8mm linear rods
+4x $1.5 each $6
+linear rod: https://www.aliexpress.com/item/1005006293171727.html?algo_pvid=8c974eb5-c1d1-4c9a-acdb-27f8d2245784&algo_exp_id=8c974eb5-c1d1-4c9a-acdb-27f8d2245784-1&pdp_ext_f=%7B%22order%22:%223884%22,%22eval%22:%221%22%7D&pdp_npi=4@dis!USD!7.11!3.98!!!7.11!3.98!@2101c5ac17396768963603218ed2cf!12000036638889805!sea!CA!3877050385!X&curPageLogUid=e8iNtRMiNKKF&utparam-url=scene:search%7Cquery_from:
+
+shaft coupler
+least 4x $2 each $8
+shaft coupler: https://www.aliexpress.com/item/1005006293171727.html?algo_pvid=8c974eb5-c1d1-4c9a-acdb-27f8d2245784&algo_exp_id=8c974eb5-c1d1-4c9a-acdb-27f8d2245784-1&pdp_ext_f=%7B%22order%22:%223884%22,%22eval%22:%221%22%7D&pdp_npi=4@dis!USD!7.11!3.98!!!7.11!3.98!@2101c5ac17396768963603218ed2cf!12000036638889805!sea!CA!3877050385!X&curPageLogUid=e8iNtRMiNKKF&utparam-url=scene:search%7Cquery_from:
