@@ -82,4 +82,4 @@ grant limit $300
 
 vslot is $2 with welcom deal
 least 4x, most 12x $8-$24
-https://www.aliexpress.com/item/1005003367614421.html?algo_pvid=ede12625-4f86-4bb8-93ea-521c2b577cc0&algo_exp_id=ede12625-4f86-4bb8-93ea-521c2b577cc0-5&pdp_ext_f=%7B%22order%22:%2237%22,%22eval%22:%221%22%7D&pdp_npi=4@dis!CAD!17.88!2.03!!!12.34!1.40!@2101c59817398320206561562e66c5!12000025449760566!sea!CA!0!ABX&curPageLogUid=tLjlhsCfaOR6&utparam-url=scene:search%7Cquery_from:
+v slot :https://www.aliexpress.com/item/1005003367614421.html?algo_pvid=ede12625-4f86-4bb8-93ea-521c2b577cc0&algo_exp_id=ede12625-4f86-4bb8-93ea-521c2b577cc0-5&pdp_ext_f=%7B%22order%22:%2237%22,%22eval%22:%221%22%7D&pdp_npi=4@dis!CAD!17.88!2.03!!!12.34!1.40!@2101c59817398320206561562e66c5!12000025449760566!sea!CA!0!ABX&curPageLogUid=tLjlhsCfaOR6&utparam-url=scene:search%7Cquery_from:
