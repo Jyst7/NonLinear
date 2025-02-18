@@ -91,3 +91,9 @@ linear rod: https://www.aliexpress.com/item/1005006293171727.html?algo_pvid=8c97
 shaft coupler
 least 4x $2 each $8
 shaft coupler: https://www.aliexpress.com/item/1005006293171727.html?algo_pvid=8c974eb5-c1d1-4c9a-acdb-27f8d2245784&algo_exp_id=8c974eb5-c1d1-4c9a-acdb-27f8d2245784-1&pdp_ext_f=%7B%22order%22:%223884%22,%22eval%22:%221%22%7D&pdp_npi=4@dis!USD!7.11!3.98!!!7.11!3.98!@2101c5ac17396768963603218ed2cf!12000036638889805!sea!CA!3877050385!X&curPageLogUid=e8iNtRMiNKKF&utparam-url=scene:search%7Cquery_from:
+
+feb 18 2025
+
+a new day and new existential dread about schoolwork that i aint doing now on to some cadding
+
+i looked at some more examples and I think i can get away with only using one motor for the pitch so that should make it a bit cheaper for the time being
